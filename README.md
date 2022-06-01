@@ -1,0 +1,2 @@
+# MiniGamePackageTest
+用于测试小游戏的Package打包
